@@ -104,6 +104,5 @@ Use the arrow keys to navigate the car through the field of cubes and reach the 
     <br />
     <sub><b>Mohammed Ali</b></sub></a>
     </td>
-
       </tr>
  </table>
