@@ -1,7 +1,8 @@
-# OpenGl Car Game
-
-This project is a simple car game developed using OpenGL and C++. The goal of the game is to navigate a car through a field of randomly placed cubes without colliding with them and reach a target to win.
-![Game review](assests/reviwe.gif)
+<div style="text-align: center;">
+    <h1>OpenGL Car Game</h1>
+    <p>This project is a simple car game developed using OpenGL and C++. The goal of the game is to navigate a car through a field of randomly placed cubes without colliding with them and reach a target to win.</p>
+    <img src="assests/reviwe.gif" alt="Game review" style=" display: block; margin: 0 auto;">
+</div>
 
 ## Table of Contents:
 1. [Features](#features)
