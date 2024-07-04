@@ -108,5 +108,11 @@ Use the arrow keys to navigate the car through the field of cubes and reach the 
     <br />
     <sub><b>Mohammed Ali</b></sub></a>
     </td>
+    <td align="center">
+    <a href="https://github.com/MoAziz404" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/116502299?v=4" width="150px;" alt="Mohammed Aziz"/>
+    <br />
+    <sub><b>Mohammed Aziz</b></sub></a>
+    </td>
       </tr>
  </table>
